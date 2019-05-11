@@ -13,7 +13,9 @@ Instructions on how to run the system:
 
 5. When user will click on Add to Cart link then user will get redirected to the cart page and user need to add the rental days for the particular equipment which they need to rent.
 
-6. After adding necessary equipment, user can click on Print Invoice link and then invoice get downloaded in text format as per the given below example of calculation.
+6. Find the logging details at : C:\AppLog.txt file.
+
+7. After adding necessary equipment, user can click on Print Invoice link and then invoice get downloaded in text format as per the given below example of calculation.
 
 Example:
 
